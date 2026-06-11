@@ -6,8 +6,6 @@
 
 **Proposta do modulo:** ensinar a manipular bases de dados dentro do R, com foco em limpeza, organizacao, recodificacao de variaveis, tratamento de inconsistencias, uniao de tabelas e exportacao de bases em formatos abertos e planilhas.
 
-> Material de referencia usado nesta versao: texto-base do Modulo 3, ebook "Modulo 3: Manipulacao de bases de dados com a linguagem R", PDFs "Preparacao de bases" e "Exportando banco de dados", e scripts suplementares sobre estruturas de dados, criacao de data frame, `dplyr`, transformacao de dengue PR, recodificacao com NINDINET e exportacao.
-
 ---
 
 ## 1. Boas-vindas
