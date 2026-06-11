@@ -6,7 +6,6 @@
 
 **Proposta do modulo:** apresentar a linguagem R, instalar e reconhecer o ambiente de trabalho, executar os primeiros comandos, criar objetos, fazer calculos simples, entender tipos basicos de dados e identificar erros comuns do inicio do aprendizado.
 
-> Observacao para o professor: este material foi estruturado a partir do texto do Modulo 1, dos scripts "script01" e "primeiros calculos e erros comuns". O arquivo PDF citado nao foi lido nesta versao porque o acesso ao caminho externo foi recusado durante a preparacao.
 
 ---
 
