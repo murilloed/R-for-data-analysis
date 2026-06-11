@@ -1,3 +1,5 @@
+<img width="746" height="322" alt="image" src="https://github.com/user-attachments/assets/486b7cab-2da4-4b65-8715-f2f242703bf6" />
+
 # Curso de Introducao a Linguagem R
 
 ## Modulo 1 - Primeiros passos com R 
