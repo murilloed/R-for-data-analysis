@@ -6,8 +6,6 @@
 
 **Proposta do modulo:** consolidar o curso por meio de exemplos praticos: operacoes com datas, calculo de oportunidade, identificacao de duplicidades, analise de inconsistencias, completitude e estatistica descritiva com medidas resumo, tabelas e graficos basicos.
 
-> Material de referencia usado nesta versao: ebook "Modulo 4: Linguagem R aplicada a Vigilancia em Saude", PDFs "Analise usando estatistica descritiva", "Identificando duplicidades em uma base de dados" e "Analise de oportunidades dos sistemas de Vigilancia Epidemiologica", scripts `carregando pacotes.txt`, `estatistica descritiva.txt`, `estatistica descritiva2.txt`, e bases compactadas `Nindinet Modulo 4` e `Dados Aids`.
-
 ---
 
 ## 1. Boas-vindas
