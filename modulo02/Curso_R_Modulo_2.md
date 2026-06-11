@@ -6,8 +6,6 @@
 
 **Proposta do modulo:** desenvolver a habilidade fundamental de importar bases de dados, reconhecer a estrutura de dados tabulares, compreender tipos de variaveis e preparar os dados para as primeiras analises em Vigilancia em Saude.
 
-> Material de referencia usado nesta versao: texto-base do Modulo 2, ebook "Modulo 02: Importar e organizar bases de dados na linguagem R", PDFs suplementares "Introducao a analise de dados com o R" e "Importando o banco de dados com o R", alem das bases `MPOX_CSV2_EXEMPLO.csv`, `NINDINET_EXEMPLO.dbf` e `sinannet_heparj_bysexo.xls`.
-
 ---
 
 ## 1. Boas-vindas
