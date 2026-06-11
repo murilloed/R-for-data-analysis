@@ -1,8 +1,8 @@
 # Curso de Introducao a Linguagem R
 
-## Modulo 1 - Primeiros passos com R aplicado a Vigilancia em Saude
+## Modulo 1 - Primeiros passos com R 
 
-**Publico-alvo:** estudantes e profissionais que desejam iniciar no R para organizar, analisar e comunicar dados, especialmente no contexto da Vigilancia em Saude.
+**Publico-alvo:** estudantes e profissionais que desejam iniciar no R para organizar, analisar e comunicar dados.
 
 **Proposta do modulo:** apresentar a linguagem R, instalar e reconhecer o ambiente de trabalho, executar os primeiros comandos, criar objetos, fazer calculos simples, entender tipos basicos de dados e identificar erros comuns do inicio do aprendizado.
 
@@ -11,7 +11,7 @@
 
 ## 1. Boas-vindas
 
-Ola! Seja bem-vindo(a) ao primeiro modulo do curso de **Introducao ao Software R aplicado a Vigilancia em Saude**.
+Ola! Seja bem-vindo(a) ao primeiro modulo do curso de **Introducao ao Software R aplicado**.
 
 Neste modulo, vamos construir uma base segura para que a turma consiga:
 
