@@ -54,13 +54,8 @@ Em muitos fluxos de trabalho, planilhas sao uteis para consulta e pequenas organ
 
 Imagine que uma equipe precise calcular a taxa de mortalidade, atualizar graficos e gerar um relatorio toda semana. Em vez de refazer tudo manualmente, o R permite registrar cada passo em um script. Quando novos dados chegam, basta executar o script novamente.
 
-```mermaid
-flowchart LR
-    A["Dados brutos"] --> B["Limpeza e organizacao"]
-    B --> C["Calculos e indicadores"]
-    C --> D["Graficos e tabelas"]
-    D --> E["Relatorio e tomada de decisao"]
-```
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/3c707fbc-f880-460e-a67d-0b0d93699694" />
+
 
 ---
 
