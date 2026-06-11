@@ -35,7 +35,7 @@ Ao final do modulo, o estudante deve conseguir abrir o RStudio, escrever comando
 
 O R e uma linguagem de programacao e um ambiente de software voltado para **analise estatistica, manipulacao de dados, visualizacao e automacao de tarefas**.
 
-Na Vigilancia em Saude, o R pode ajudar em atividades como:
+O R pode ajudar em atividades como:
 
 - calcular indicadores epidemiologicos;
 - organizar bancos de dados;
@@ -116,7 +116,7 @@ Os principais objetivos sao:
 - Operacoes matematicas simples
 - Tipos de objetos aceitos no R
 - Demonstracoes graficas
-- Primeiros calculos aplicados a Vigilancia em Saude
+- Primeiros calculos aplicados 
 - Erros comuns no inicio do aprendizado
 - Ajuda, documentacao e comunidade
 
@@ -707,7 +707,7 @@ help.search("regression")
 Tempo sugerido: 40 a 60 minutos.
 
 1. Apresentar o curso e os objetivos do modulo.
-2. Explicar por que R e util para Vigilancia em Saude.
+2. Explicar por que R .
 3. Instalar R e RStudio.
 4. Abrir o RStudio e testar `1 + 1`.
 5. Mostrar os paineis principais da interface.
